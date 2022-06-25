@@ -2,7 +2,7 @@
 
 file = open('history.txt', 'r')
 lines = file.readlines()
-name = "yungsceezy"
+name = "DrNykterstein"
 games = []
 
 for line in lines:
