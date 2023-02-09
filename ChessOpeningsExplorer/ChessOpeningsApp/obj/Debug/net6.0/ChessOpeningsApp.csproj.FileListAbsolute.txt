@@ -1,0 +1,15 @@
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\bin\Debug\net6.0\ChessOpeningsApp.exe
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\bin\Debug\net6.0\ChessOpeningsApp.deps.json
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\bin\Debug\net6.0\ChessOpeningsApp.runtimeconfig.json
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\bin\Debug\net6.0\ChessOpeningsApp.dll
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\bin\Debug\net6.0\ChessOpeningsApp.pdb
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.csproj.AssemblyReference.cache
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.AssemblyInfoInputs.cache
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.AssemblyInfo.cs
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.csproj.CoreCompileInputs.cache
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.dll
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\refint\ChessOpeningsApp.dll
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.pdb
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ChessOpeningsApp.genruntimeconfig.cache
+D:\dev\c#\ChessOpenings\ChessOpeningsExplorer\ChessOpeningsApp\obj\Debug\net6.0\ref\ChessOpeningsApp.dll
